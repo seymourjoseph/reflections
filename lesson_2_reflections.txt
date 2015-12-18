@@ -1,0 +1,1 @@
+A .git directory is created with metadata. You need to tell git to get that all set up.
