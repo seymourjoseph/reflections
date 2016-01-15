@@ -1,3 +1,5 @@
 A .git directory is created with metadata. You need to tell git to get that all set up. Some new stuff.
 
 The staging area is a temporary holding place before making a commit. It allows organizaiton before commiting something.
+
+I can review the files in staging and make sure it comprises one logical change.
